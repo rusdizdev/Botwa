@@ -17,7 +17,7 @@
 - 🛠️ Diversas correcciones de errores  
 
 ## Spoiler  
-![alt text](https://i.ibb.co.com/GvJBjDQF/IMG-20250424-WA0199-3.jpg?raw=true)  
+![alt text](https://i.ibb.co.com/hFbLcqp5/IMG-20250428-123017.jpg?raw=true)  
 
 ## ¿Errores en el script?  
 <br>¡Escribe al correo del creador!  
