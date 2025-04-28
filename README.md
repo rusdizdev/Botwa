@@ -4,7 +4,7 @@
 - ¡Seguro de usar!  
 
 ## Descarga  
-- SC: [botwa-main.zip](https://github.com/rusdizdev/storewa/archive/refs/heads/main.zip)  
+- SC: [botwa-main.zip](https://github.com/rusdizdev/Botwa/archive/refs/heads/main.zip)  
 - Módulos: [node_modules.zip](https://github.com/rusdizdev/modules/raw/refs/heads/main/node_modules.zip)  
 
 ## Características  
